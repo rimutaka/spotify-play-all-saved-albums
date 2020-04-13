@@ -1,5 +1,5 @@
-# Spotify All Saved Albums Playlist Builder
-#### Compile all tracks from all saved and liked albums into a single playlist
+# "All Saved Albums" Playlist Builder for Spotify
+#### A browser extension to compile all tracks from all saved and liked albums into a single playlist
 
 Spotify has a rather confusing system of liked songs, liked albums and a single *Liked Songs* playlist.
 
@@ -12,7 +12,7 @@ This extension compiles a single playlist from all tracks from all *saved* and *
 
 #### 1. Install the extension
 
-Install a compiled package from [Releases](https://github.com/rimutaka/spotify-play-all-saved-albums/releases/tag/v.0.1) or download and compile the [source](https://github.com/rimutaka/spotify-play-all-saved-albums).
+Install a compiled package from [Releases](https://github.com/rimutaka/spotify-play-all-saved-albums/releases) or download and compile the [source](https://github.com/rimutaka/spotify-play-all-saved-albums).
 
 #### 2. Create a new playlist
 
@@ -38,7 +38,12 @@ You should see a success message on completion.
 
 #### If something goes wrong
 
-The button may not appear or the processing may not start or it may fail halfway through. Refresh the page and try again. 
+Known problems:
+* the button may not appear or 
+* the processing may not start 
+* it fails halfway through due to comms
+ 
+Refresh the page and try again. 
 
 You may need to delete the playlist and start anew if some tracks already got added to it.
 
@@ -54,7 +59,7 @@ Tracks are not shuffled and appear in the order albums appear in your *Albums co
 
 #### Updating your playlist
 
-There is no way to add new tracks to it other than by hand. It may be easier to delete and re-create the entire playlist.
+This extension only works with empty playlists. You can add new tracks by hand. It may be easier to delete and re-create the entire playlist.
 
 # Anatomy of the extension
 
