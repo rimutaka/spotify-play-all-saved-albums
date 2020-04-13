@@ -13,7 +13,7 @@ let tracksToSave = []; // list of all track IDs to add to the playlist
 let tracksTotal = 0; // number of tracks loaded from all albums
 let playlistId = ""; // if of the current playlist
 const albumsPerRequest = 50; // limit param in album list request
-const maxPlaylistSize = 500; // max number of tracks in a playlist
+const maxPlaylistSize = 10000; // max number of tracks in a playlist
 const tracksPerRequest = 100; // number of tracks to add per request
 
 let h1Container = null; // H1 message area
