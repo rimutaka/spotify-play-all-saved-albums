@@ -12,7 +12,7 @@ This extension compiles a single playlist from all tracks from all *saved* and *
 
 #### 1. Install the extension
 
-Install a compiled package from [Releases]() or download and compile the [source]().
+Install a compiled package from [Releases](https://github.com/rimutaka/spotify-play-all-saved-albums/releases/tag/v.0.1) or download and compile the [source](https://github.com/rimutaka/spotify-play-all-saved-albums).
 
 #### 2. Create a new playlist
 
@@ -42,7 +42,7 @@ The button may not appear or the processing may not start or it may fail halfway
 
 You may need to delete the playlist and start anew if some tracks already got added to it.
 
-Report your problems in [Issues]().
+Report your problems in [Issues](https://github.com/rimutaka/spotify-play-all-saved-albums/issues).
 
 #### Maximum playlist size
 

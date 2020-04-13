@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Spotify: Play All Saved Albums",
   "description": "Creates a single playlist with all songs from all saved albums.",
-  "homepage_url": "https://github.com/rimutaka/",
+  "homepage_url": "https://github.com/rimutaka/spotify-play-all-saved-albums",
   "version": "0.1",
   "icons": {
     "48": "icons/icon.png",
