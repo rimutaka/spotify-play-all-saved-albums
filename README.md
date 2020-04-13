@@ -55,3 +55,7 @@ Tracks are not shuffled and appear in the order albums appear in your *Albums co
 #### Updating your playlist
 
 There is no way to add new tracks to it other than by hand. It may be easier to delete and re-create the entire playlist.
+
+# Anatomy of the extension
+
+![activity overview](imgs/activity-overview.png)
